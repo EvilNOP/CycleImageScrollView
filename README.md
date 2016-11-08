@@ -1,4 +1,8 @@
 # CycleImageScrollView
+
+![Platform](http://img.shields.io/badge/platform-iOS-blue.svg?style=flat)
+[![Language](https://img.shields.io/badge/swift3-compatible-4BC51D.svg?style=flat)](https://developer.apple.com/swift)
+
 It is a highly customizable scroll view for display images which can be scrolled infinitely and automatically in swift.
 
 - [Features](#features)
